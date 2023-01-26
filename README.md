@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🌱 I'm currently enrolled in Microverse and studying to become a full stack web developer.<br>💻 All my projects are available [here.](https://github.com/Tobby8629?tab=repositories)<br>🔤 I am looking for opportunities to work on full stack web development projects.<br>🔭 I’m currently working on vanilla JavaScript and react .<br>📫 How to reach me [Mail](popoolasamuel8629@gmail.com)<br>⚡ I love music, soccer and video games  
+🌱 I'm currently enrolled in Microverse and studying to become a full stack web developer.<br>💻 All my projects are available [here.](https://github.com/Tobby8629?tab=repositories)<br>🔤 I am looking for opportunities to work on full stack web development projects.<br>🔭 I’m currently working on vanilla JavaScript and react .<br>📫 Reach me via my [Mail](popoolasamuel8629@gmail.com)<br>⚡ I love music, soccer and video games  
 
 ## 🌐 Socials:
 
