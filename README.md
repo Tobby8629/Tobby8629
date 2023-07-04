@@ -26,6 +26,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tobby8629&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
